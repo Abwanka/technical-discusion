@@ -11,3 +11,7 @@ this is a demo repo for sharing ideas around communication
 ## Gist
 
 This is a good example of [my code](https://gist.github.com/Abwanka/cf81d9f1b86836fe43e1322d35977a70)  
+
+### colab exmaple
+
+this is the [notebook](https://github.com/Abwanka/technical-discusion)
