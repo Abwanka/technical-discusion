@@ -15,3 +15,8 @@ This is a good example of [my code](https://gist.github.com/Abwanka/cf81d9f1b868
 ### colab exmaple
 
 this is the [notebook](https://github.com/Abwanka/technical-discusion)
+
+
+## Image
+
+![image](https://user-images.githubusercontent.com/121166103/209784877-96ece990-28b4-4023-a88c-3fccf2cf009e.png)
